@@ -1,0 +1,32 @@
+.background {
+    align-items: center;
+    height: auto;
+    width: auto;
+    position: absolute;
+}
+
+#Timer {
+    width: 250px;
+    height: 70px;
+    text-align: center;
+    font-size: 40px;
+    border: solid 2px grey;
+    justify-content: center;
+    margin: 10px 20px;
+    border-radius: 0.25rem;
+}
+
+.buttons {
+    width: 250px;
+    margin: 0 20px;
+    justify-content: center;
+}
+
+button {
+    width: 70px;
+    margin:0 auto;
+}
+
+.btn-outline-secondary:nth-child(2) {
+    margin: 0 15px;
+}
